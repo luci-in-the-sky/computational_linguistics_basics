@@ -1,0 +1,1 @@
+## * build vectors making use of positive and negative frequency table.
